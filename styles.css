@@ -1,0 +1,87 @@
+body {
+   color:red;
+   background:black;
+   margin: 15px;
+   font-family: "Open Sans", sans-serif;
+
+
+
+}
+
+
+header{
+    border-bottom: solid 2px red;
+    padding:10px;
+    font-size: 64px;
+    color: rgb(146, 3, 3);
+
+}
+
+.chamada-texto {
+   margin-right: 5%;
+
+}
+
+h1 {
+   font-size: 30px;
+ }
+
+
+ p {
+   font-size: 20px;
+ }
+
+ .chamada-texto {
+   margin-right: 5%;
+ }
+
+ img {
+  height: 177px;
+}
+
+.categoria-videos {
+ display:flex;
+ overflow-x:auto;
+ gap: 5px;
+
+}
+
+.categoria-videos img{
+  opacity: 0.7;
+  height: 200px;
+}
+
+.categoria-videos img:hover {
+  opacity: 1.0; 
+ border: 1px solid red;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
